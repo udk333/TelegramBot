@@ -1,5 +1,5 @@
 <div align="center">
-【电报推荐】优质Telegram 聊天机器人，精心筛选，让您轻松玩转Telegram。<br>
+【电报推荐】优质Telegram AI聊天机器人，精心筛选，让您轻松玩转Telegram。<br>
 </div>
 
 ### 搜索机器人
